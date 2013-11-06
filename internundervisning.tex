@@ -9,6 +9,7 @@
 \usepackage{graphicx}
 \usepackage{cite}
 \usepackage[table]{xcolor}
+%\usepackage{biblatex}Tied to make chapref didnt work
 
 
 %slutt på pakkene
@@ -16,6 +17,11 @@
 
 %Styler kapittelet
 \chapterstyle{veelo}
+
+%bibtex resources
+%\addbibresource{./kilder_bibtex/bib_iu_sjek.bib}
+%\addbibresource{./kilder_bibtex/bib_iu_sykd.bib}
+%\addbibresource{./kilder_bibtex/bib_iu_pro.bib}chapref
 
 %Seksjoner, subseksjoner og paragrafutseende begynner her:
 \setsecheadstyle{\bfseries\sffamily}   
@@ -62,6 +68,7 @@
 	%\end{framed} brukes for å ramme inn. Innhold er mellom.
 \mainmatter
 	\part{Sykdommer i praksis}	
+		%\begin{refsection}
 		\input{./kap_syk/systematisk.tex} %Systematisk arbeid kapittelet
 		\input{./kap_syk/hjerte.tex} %hjertekapittelet
 		\input{./kap_syk/nevro.tex} %nevrologikapittelet	
@@ -69,33 +76,38 @@
 		\input{./kap_syk/urinveier.tex}%Nyrekapittelet
 		\input{./kap_syk/delir.tex}%delirkapittelet
 		\input{./kap_syk/diabetes.tex}%delirkapittelet
-		  \bibliography{./kilder_bibtex/bib_iu_spl}{}
-		  \bibliographystyle{plain}
+		  %\printbibliography{heading=subbibliography}
+		 % \bibliographystyle{plain}
+		%\end{refsection}
 
 	\part{Prosedyrer og sikkerhet}
-		\input{./kap_pro/sikkerhet.tex}%sikkerhetskapittlet
-		\chapter{Ultralyd}
-			\section{Blærescan}
-			\section{Dyp veneflon}
-			\section{Måle størrelse på foster}
-		\chapter{Blodige saker}
-			\section{Veneflon}
-			\section{Bedøvelse av sår}
-		\chapter{Urinveier}
-			\section{Sette inn varig kateter}
-			\section{Engangskateter}
-			\section{Spedbarn og urinposer}
-		\chapter{Hjerte og lungeredning}
-			\section{Intraosseøs tilgang}
-			\section{Defibrillator}
-			\section{Oksygen og medisiner}
-			\section{Formel-1 ved Drammen legevakt}
-		\chapter{Arbeidsdagen}
-			\section{Når du kommer på jobb}
-			\section{Når du går fra jobb}
+		%\begin{refsection}
+			\input{./kap_pro/sikkerhet.tex}%sikkerhetskapittlet
+			\chapter{Ultralyd}
+				\section{Blærescan}
+				\section{Dyp veneflon}
+				\section{Måle størrelse på foster}
+			\chapter{Blodige saker}
+				\section{Veneflon}
+				\section{Bedøvelse av sår}
+			\chapter{Urinveier}
+				\section{Sette inn varig kateter}
+				\section{Engangskateter}
+				\section{Spedbarn og urinposer}
+			\chapter{Hjerte og lungeredning}
+				\section{Intraosseøs tilgang}
+				\section{Defibrillator}
+				\section{Oksygen og medisiner}
+				\section{Formel-1 ved Drammen legevakt}
+			\chapter{Arbeidsdagen}
+				\section{Når du kommer på jobb}
+				\section{Når du går fra jobb}
 		
-		\bibliography{./kilder_bibtex/bib_iu_spl}{}
-		\bibliographystyle{plain}
+		%\bibliography{heading=subbibliography}
+		%\bibliographystyle{plain}
+
+		%\end{refsection}
+
 
 
 	\part{Sjekklister}
@@ -110,15 +122,17 @@
 
 
 
-		\bibliography{./kilder_bibtex/bib_iu_spl}{}
-		\bibliographystyle{plain}
+	\bibliography{./kilder_bibtex/bib_iu_spl_sykd.bib}{}
+	\bibliographystyle{plain}
 
 \backmatter
 
  
           
-
+	
+	
 	\listoffigures
+	
 	\listoftables
 
 

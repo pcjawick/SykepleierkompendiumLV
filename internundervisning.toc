@@ -120,7 +120,7 @@
 \contentsline {section}{\numberline {7.4}Klinikk}{30}{section.7.4}
 \contentsline {subsubsection}{En t\IeC {\o }ff medisin}{30}{section*.53}
 \contentsline {subsubsection}{Mange sykdommer f\IeC {\o }lger i kj\IeC {\o }lvannet}{30}{section*.54}
-\contentsline {subsection}{\numberline {7.4.1}Medikamenter\cite {legevakthandboka}}{30}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.1}Medikamenter}{30}{subsection.7.4.1}
 \contentsline {subsubsection}{Settes i huden(s.c.):}{30}{section*.55}
 \contentsline {paragraph}{Hurtig-/korttidsvirkende insulinpreparater (Insulin Actrapid\textregistered , Insuman Rapid\textregistered ):\\}{30}{section*.56}
 \contentsline {paragraph}{Ekstra hurtigvirkende insulinanalog (Humalog\textregistered , NovoRapid\textregistered og Apidra\textregistered ):}{30}{section*.57}
@@ -136,46 +136,44 @@
 \contentsline {section}{\numberline {7.5}Pasienteksempler}{32}{section.7.5}
 \contentsline {subsection}{\numberline {7.5.1}Pasient 11}{32}{subsection.7.5.1}
 \contentsline {subsection}{\numberline {7.5.2}Pasient 12}{32}{subsection.7.5.2}
-\contentsline {chapter}{Kilder:}{33}{section*.68}
-\contentsline {part}{\partnumberline {II}Prosedyrer og sikkerhet}{35}{part.2}
-\contentsline {chapter}{\chapternumberline {8}Sikkerhet}{37}{chapter.8}
-\contentsline {section}{\numberline {8.1}Trusler}{37}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}P\IeC {\r a} telefonen}{37}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}P\IeC {\r a} venterommet}{37}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}Innenfor}{37}{subsection.8.1.3}
-\contentsline {section}{\numberline {8.2}Vold}{37}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Mot pasienter}{37}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Mot oss}{37}{subsection.8.2.2}
-\contentsline {section}{\numberline {8.3}Oversikt over r\IeC {\o }mningsveier}{37}{section.8.3}
-\contentsline {chapter}{\chapternumberline {9}Ultralyd}{39}{chapter.9}
-\contentsline {section}{\numberline {9.1}Bl\IeC {\ae }rescan}{39}{section.9.1}
-\contentsline {section}{\numberline {9.2}Dyp veneflon}{39}{section.9.2}
-\contentsline {section}{\numberline {9.3}M\IeC {\r a}le st\IeC {\o }rrelse p\IeC {\r a} foster}{39}{section.9.3}
-\contentsline {chapter}{\chapternumberline {10}Blodige saker}{41}{chapter.10}
-\contentsline {section}{\numberline {10.1}Veneflon}{41}{section.10.1}
-\contentsline {section}{\numberline {10.2}Bed\IeC {\o }velse av s\IeC {\r a}r}{41}{section.10.2}
-\contentsline {chapter}{\chapternumberline {11}Urinveier}{43}{chapter.11}
-\contentsline {section}{\numberline {11.1}Sette inn varig kateter}{43}{section.11.1}
-\contentsline {section}{\numberline {11.2}Engangskateter}{43}{section.11.2}
-\contentsline {section}{\numberline {11.3}Spedbarn og urinposer}{43}{section.11.3}
-\contentsline {chapter}{\chapternumberline {12}Hjerte og lungeredning}{45}{chapter.12}
-\contentsline {section}{\numberline {12.1}Intraosse\IeC {\o }s tilgang}{45}{section.12.1}
-\contentsline {section}{\numberline {12.2}Defibrillator}{45}{section.12.2}
-\contentsline {section}{\numberline {12.3}Oksygen og medisiner}{45}{section.12.3}
-\contentsline {section}{\numberline {12.4}Formel-1 ved Drammen legevakt}{45}{section.12.4}
-\contentsline {chapter}{\chapternumberline {13}Arbeidsdagen}{47}{chapter.13}
-\contentsline {section}{\numberline {13.1}N\IeC {\r a}r du kommer p\IeC {\r a} jobb}{47}{section.13.1}
-\contentsline {section}{\numberline {13.2}N\IeC {\r a}r du g\IeC {\r a}r fra jobb}{47}{section.13.2}
-\contentsline {chapter}{Kilder:}{49}{section*.71}
-\contentsline {part}{\partnumberline {III}Sjekklister}{51}{part.3}
-\contentsline {section}{\numberline {13.3}Bl\IeC {\ae }rescan}{53}{section.13.3}
-\contentsline {section}{\numberline {13.4}Dyp veneflon}{53}{section.13.4}
-\contentsline {section}{\numberline {13.5}M\IeC {\r a}le st\IeC {\o }rrelse p\IeC {\r a} foster}{53}{section.13.5}
-\contentsline {section}{\numberline {13.6}Veneflon}{53}{section.13.6}
-\contentsline {section}{\numberline {13.7}Bed\IeC {\o }velse av s\IeC {\r a}r}{53}{section.13.7}
-\contentsline {section}{\numberline {13.8}Hjerte- lungeredning}{53}{section.13.8}
-\contentsline {section}{\numberline {13.9}N\IeC {\r a}r du kommer p\IeC {\r a} jobb}{53}{section.13.9}
-\contentsline {section}{\numberline {13.10}N\IeC {\r a}r du g\IeC {\r a}r fra jobb}{53}{section.13.10}
-\contentsline {chapter}{Kilder:}{55}{section*.74}
-\contentsline {chapter}{Illustrasjoner}{57}{section*.75}
-\contentsline {chapter}{Tabeller}{57}{section*.76}
+\contentsline {part}{\partnumberline {II}Prosedyrer og sikkerhet}{33}{part.2}
+\contentsline {chapter}{\chapternumberline {8}Sikkerhet}{35}{chapter.8}
+\contentsline {section}{\numberline {8.1}Trusler}{35}{section.8.1}
+\contentsline {subsection}{\numberline {8.1.1}P\IeC {\r a} telefonen}{35}{subsection.8.1.1}
+\contentsline {subsection}{\numberline {8.1.2}P\IeC {\r a} venterommet}{35}{subsection.8.1.2}
+\contentsline {subsection}{\numberline {8.1.3}Innenfor}{35}{subsection.8.1.3}
+\contentsline {section}{\numberline {8.2}Vold}{35}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Mot pasienter}{35}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Mot oss}{35}{subsection.8.2.2}
+\contentsline {section}{\numberline {8.3}Oversikt over r\IeC {\o }mningsveier}{35}{section.8.3}
+\contentsline {chapter}{\chapternumberline {9}Ultralyd}{37}{chapter.9}
+\contentsline {section}{\numberline {9.1}Bl\IeC {\ae }rescan}{37}{section.9.1}
+\contentsline {section}{\numberline {9.2}Dyp veneflon}{37}{section.9.2}
+\contentsline {section}{\numberline {9.3}M\IeC {\r a}le st\IeC {\o }rrelse p\IeC {\r a} foster}{37}{section.9.3}
+\contentsline {chapter}{\chapternumberline {10}Blodige saker}{39}{chapter.10}
+\contentsline {section}{\numberline {10.1}Veneflon}{39}{section.10.1}
+\contentsline {section}{\numberline {10.2}Bed\IeC {\o }velse av s\IeC {\r a}r}{39}{section.10.2}
+\contentsline {chapter}{\chapternumberline {11}Urinveier}{41}{chapter.11}
+\contentsline {section}{\numberline {11.1}Sette inn varig kateter}{41}{section.11.1}
+\contentsline {section}{\numberline {11.2}Engangskateter}{41}{section.11.2}
+\contentsline {section}{\numberline {11.3}Spedbarn og urinposer}{41}{section.11.3}
+\contentsline {chapter}{\chapternumberline {12}Hjerte og lungeredning}{43}{chapter.12}
+\contentsline {section}{\numberline {12.1}Intraosse\IeC {\o }s tilgang}{43}{section.12.1}
+\contentsline {section}{\numberline {12.2}Defibrillator}{43}{section.12.2}
+\contentsline {section}{\numberline {12.3}Oksygen og medisiner}{43}{section.12.3}
+\contentsline {section}{\numberline {12.4}Formel-1 ved Drammen legevakt}{43}{section.12.4}
+\contentsline {chapter}{\chapternumberline {13}Arbeidsdagen}{45}{chapter.13}
+\contentsline {section}{\numberline {13.1}N\IeC {\r a}r du kommer p\IeC {\r a} jobb}{45}{section.13.1}
+\contentsline {section}{\numberline {13.2}N\IeC {\r a}r du g\IeC {\r a}r fra jobb}{45}{section.13.2}
+\contentsline {part}{\partnumberline {III}Sjekklister}{47}{part.3}
+\contentsline {section}{\numberline {13.3}Bl\IeC {\ae }rescan}{49}{section.13.3}
+\contentsline {section}{\numberline {13.4}Dyp veneflon}{49}{section.13.4}
+\contentsline {section}{\numberline {13.5}M\IeC {\r a}le st\IeC {\o }rrelse p\IeC {\r a} foster}{49}{section.13.5}
+\contentsline {section}{\numberline {13.6}Veneflon}{49}{section.13.6}
+\contentsline {section}{\numberline {13.7}Bed\IeC {\o }velse av s\IeC {\r a}r}{49}{section.13.7}
+\contentsline {section}{\numberline {13.8}Hjerte- lungeredning}{49}{section.13.8}
+\contentsline {section}{\numberline {13.9}N\IeC {\r a}r du kommer p\IeC {\r a} jobb}{49}{section.13.9}
+\contentsline {section}{\numberline {13.10}N\IeC {\r a}r du g\IeC {\r a}r fra jobb}{49}{section.13.10}
+\contentsline {chapter}{Kilder:}{51}{section*.70}
+\contentsline {chapter}{Illustrasjoner}{53}{section*.71}
+\contentsline {chapter}{Tabeller}{53}{section*.72}
