@@ -42,35 +42,40 @@
 \sffamily
 
 %%Her begynner oversettelsen til norsk
-			\renewcommand{\chaptername}{Del}
+			\renewcommand{\partname}{Del}
+			\renewcommand{\chaptername}{Kapittel}
             \renewcommand{\contentsname}{Innhold}
             \renewcommand\listfigurename{Illustrasjoner}
             \renewcommand\tablename{Tabell}
 			\renewcommand\listtablename{Tabeller}
             \renewcommand{\figurename}{Illustrasjon}
-
+			\renewcommand{\bibname}{Kilder:}
 %%Her slutter den
 
 \frontmatter
 	%Grafisk Forside
-	\input{./forside.tex}
-	\input{./forord.tex}
+	\input{./kap_pref/forside.tex}
+	\input{./kap_pref/forord.tex}
 	%\begin{framed}
 	%\end{framed} brukes for å ramme inn. Innhold er mellom.
 \mainmatter
-	\input{./kap/systematisk.tex} %Systematisk arbeid kapittelet
-	\input{./kap/hjerte.tex} %hjertekapittelet
-	\input{./kap/nevro.tex} %nevrologikapittelet	
-	\input{./kap/lunge.tex}	%lungekapittelet
-	\input{./kap/urinveier.tex}%Nyrekapittelet
-	\input{./kap/delir.tex}%delirkapittelet
-	\input{./kap/diabetes.tex}%delirkapittelet
-	
+	\part{Sykdommer}	
+		\input{./kap_syk/systematisk.tex} %Systematisk arbeid kapittelet
+		\input{./kap_syk/hjerte.tex} %hjertekapittelet
+		\input{./kap_syk/nevro.tex} %nevrologikapittelet	
+		\input{./kap_syk/lunge.tex}	%lungekapittelet
+		\input{./kap_syk/urinveier.tex}%Nyrekapittelet
+		\input{./kap_syk/delir.tex}%delirkapittelet
+		\input{./kap_syk/diabetes.tex}%delirkapittelet
+		  \bibliography{./kilder_bibtex/bib_iu_spl}{}
+		  \bibliographystyle{plain}
+
+	\part{prosedyrer}
+	\part{sjekklister}	
 \backmatter
 
- 	\renewcommand{\bibname}{Kilder:}
-            \bibliography{./kilder_bibtex/bib_iu_spl}{}
-			\bibliographystyle{plain}
+ 
+          
 
 	\listoffigures
 
