@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  6 NOV 2013 09:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  6 NOV 2013 10:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -737,26 +737,75 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-No file internundervisning.aux.
+(./internundervisning.aux
+
+LaTeX Warning: Label `anthonisen' multiply defined.
+
+
+LaTeX Warning: Label `uti-old' multiply defined.
+
+
+LaTeX Warning: Label `FA-gawande' multiply defined.
+
+
+LaTeX Warning: Label `FA-athero' multiply defined.
+
+
+LaTeX Warning: Label `pers_delir' multiply defined.
+
+
+LaTeX Warning: Label `legevakthandboka' multiply defined.
+
+
+LaTeX Warning: Label `rev_compre' multiply defined.
+
+
+LaTeX Warning: Label `FA-saladin' multiply defined.
+
+
+LaTeX Warning: Label `anthonisen' multiply defined.
+
+
+LaTeX Warning: Label `uti-old' multiply defined.
+
+
+LaTeX Warning: Label `FA-gawande' multiply defined.
+
+
+LaTeX Warning: Label `FA-athero' multiply defined.
+
+
+LaTeX Warning: Label `pers_delir' multiply defined.
+
+
+LaTeX Warning: Label `legevakthandboka' multiply defined.
+
+
+LaTeX Warning: Label `rev_compre' multiply defined.
+
+
+LaTeX Warning: Label `FA-saladin' multiply defined.
+
+)
 \openout1 = `internundervisning.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 41.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+Package hyperref Info: Link coloring OFF on input line 43.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -766,12 +815,14 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 41.
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+(./internundervisning.out) (./internundervisning.out)
 \@outlinefile=\write4
 \openout4 = `internundervisning.out'.
+
 
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -802,7 +853,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 (./kap_pref/forside.tex
-<./kap_pref/forsidelvdr.jpg, id=4, 209.28188pt x 136.51pt>
+<./kap_pref/forsidelvdr.jpg, id=474, 209.28188pt x 136.51pt>
 File: ./kap_pref/forsidelvdr.jpg Graphic file (type jpg)
 
 <use ./kap_pref/forsidelvdr.jpg>
@@ -833,10 +884,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 9.
 
-[3]) [4] [1
+[3]) (./internundervisning.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+ [4] [5] [6]) [7] [8
 
+] [1
 
-] [2] (./kap_syk/systematisk.tex
+] [2]
+(./kap_syk/systematisk.tex
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 4.
 LaTeX Font Info:    No file OMScmss.fd. on input line 4.
 
@@ -881,11 +945,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 
 [3
 
-]
-
-LaTeX Warning: Citation `FA-gawande' on page 4 undefined on input line 15.
-
-) (./kap_syk/hjerte.tex [4]
+]) (./kap_syk/hjerte.tex [4]
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
@@ -927,27 +987,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
 [5
 
-] <./kap_syk/bilder/hjertebedre.jpg, id=69, 1027.84pt x 605.26125pt>
+] <./kap_syk/bilder/hjertebedre.jpg, id=669, 1027.84pt x 605.26125pt>
 File: ./kap_syk/bilder/hjertebedre.jpg Graphic file (type jpg)
 
 <use ./kap_syk/bilder/hjertebedre.jpg>
 Package pdftex.def Info: ./kap_syk/bilder/hjertebedre.jpg used on input line 20
 .
 (pdftex.def)             Requested size: 361.34999pt x 212.78662pt.
-
-
-LaTeX Warning: Citation `FA-saladin' on page 6 undefined on input line 28.
-
-[6 <./kap_syk/bilder/hjertebedre.jpg>]
+ [6 <./kap_syk/bilder/hjertebedre.jpg>]
 
 LaTeX Warning: Citation `!!!' on page 7 undefined on input line 35.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 47.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 47.
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
@@ -1009,7 +1059,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<./kap_syk/bilder/nevro1.jpg, id=125, 180.675pt x 240.9pt>
+<./kap_syk/bilder/nevro1.jpg, id=714, 180.675pt x 240.9pt>
 File: ./kap_syk/bilder/nevro1.jpg Graphic file (type jpg)
 
 <use ./kap_syk/bilder/nevro1.jpg>
@@ -1018,24 +1068,12 @@ Package pdftex.def Info: ./kap_syk/bilder/nevro1.jpg used on input line 16.
  [11
 
 ] [12 <./kap_syk/bilder/nevro1.jpg>]
-
-LaTeX Warning: Reference `sec:athero' on page 13 undefined on input line 29.
-
-
-LaTeX Warning: Reference `sec:athero' on page 13 undefined on input line 29.
-
-
-LaTeX Warning: Citation `FA-athero' on page 13 undefined on input line 30.
-
 [13]) (./kap_syk/lunge.tex [14
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
-
-
-LaTeX Warning: Citation `anthonisen' on page 15 undefined on input line 6.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
@@ -1082,7 +1120,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-[15] <./kap_syk/bilder/lungeskjema.png, id=171, 351.2322pt x 448.5558pt>
+[15] <./kap_syk/bilder/lungeskjema.png, id=753, 351.2322pt x 448.5558pt>
 File: ./kap_syk/bilder/lungeskjema.png Graphic file (type png)
 
 <use ./kap_syk/bilder/lungeskjema.png>
@@ -1094,18 +1132,16 @@ Underfull \vbox (badness 1430) has occurred while \output is active []
 
  [16 <./kap_syk/bilder/lungeskjema.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 32.
 
-<./kap_syk/bilder/emfysemct.png, id=181, 472.164pt x 357.9774pt>
+<./kap_syk/bilder/emfysemct.png, id=762, 472.164pt x 357.9774pt>
 File: ./kap_syk/bilder/emfysemct.png Graphic file (type png)
 
 <use ./kap_syk/bilder/emfysemct.png>
 Package pdftex.def Info: ./kap_syk/bilder/emfysemct.png used on input line 40.
 (pdftex.def)             Requested size: 361.34999pt x 273.96106pt.
 
-<./kap_syk/bilder/goldnorsk.png, id=182, 650.9118pt x 318.4698pt>
+<./kap_syk/bilder/goldnorsk.png, id=763, 650.9118pt x 318.4698pt>
 File: ./kap_syk/bilder/goldnorsk.png Graphic file (type png)
 
 <use ./kap_syk/bilder/goldnorsk.png>
@@ -1125,9 +1161,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
  []
 
 
-LaTeX Warning: Reference `delir' on page 21 undefined on input line 5.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -1142,17 +1175,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-<./kap_syk/bilder/urinveier.png, id=220, 1003.75pt x 1318.9275pt>
+<./kap_syk/bilder/urinveier.png, id=794, 1003.75pt x 1318.9275pt>
 File: ./kap_syk/bilder/urinveier.png Graphic file (type png)
 
 <use ./kap_syk/bilder/urinveier.png>
 Package pdftex.def Info: ./kap_syk/bilder/urinveier.png used on input line 12.
 (pdftex.def)             Requested size: 361.34999pt x 474.81354pt.
-
-
-LaTeX Warning: Citation `uti-old' on page 21 undefined on input line 16.
-
-[21]) (./kap_syk/delir.tex [22] [23 <./kap_syk/bilder/urinveier.png>] [24
+ [21]) (./kap_syk/delir.tex [22] [23 <./kap_syk/bilder/urinveier.png>] [24
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -1189,18 +1218,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-
-LaTeX Warning: Citation `rev_compre' on page 25 undefined on input line 13.
-
-
-LaTeX Warning: Citation `pers_delir' on page 25 undefined on input line 13.
-
 [25]
-
-LaTeX Warning: Citation `legevakthandboka' on page 26 undefined on input line 1
-7.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
@@ -1289,8 +1307,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
 [29]
 
-LaTeX Warning: Citation `legevakthandboka' on page 30 undefined on input line 2
-1.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@ifnextchar' on input line 21.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/bx/it' undefined
@@ -1318,31 +1336,135 @@ bibitemlist
 
 ] [34
 
-] [35] [36] [37
+] [35] [36] (./kap_pro/sikkerhet.tex) [37
 
-] [38] [39
+] [38
+
+] [39] [40
+
+] [41]
+[42
+
+] [43] [44
+
+] [45] [46
+
+] (./internundervisning.bbl [47] [48
 
 ]
+bibitemlist
+pdfTeX warning (ext4): destination with the same identifier (name{cite.anthonis
+en}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \bibitem{anthonisen}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{cite.uti-old}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.10 \bibitem{uti-old}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{cite.FA-gawande}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 \bibitem{FA-gawande}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{cite.FA-athero}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.23 \bibitem{FA-athero}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{cite.pers_delir}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 \bibitem{pers_delir}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{cite.legevakthandboka}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \bibitem{legevakthandboka}
+                               pdfTeX warning (ext4): destination with the same
+ identifier (name{cite.rev_compre}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 \bibitem{rev_compre}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{cite.FA-saladin}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \bibitem{FA-saladin}
+                         ) [49] [50
+
+] [51] [52]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 102.
+
+(./internundervisning.bbl [53] [54
+
+]
+bibitemlist
+pdfTeX warning (ext4): destination with the same identifier (name{cite.anthonis
+en}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.3 \bibitem{anthonisen}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{cite.uti-old}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.10 \bibitem{uti-old}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{cite.FA-gawande}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 \bibitem{FA-gawande}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{cite.FA-athero}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.23 \bibitem{FA-athero}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{cite.pers_delir}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 \bibitem{pers_delir}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{cite.legevakthandboka}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \bibitem{legevakthandboka}
+                               pdfTeX warning (ext4): destination with the same
+ identifier (name{cite.rev_compre}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 \bibitem{rev_compre}
+                         pdfTeX warning (ext4): destination with the same ident
+ifier (name{cite.FA-saladin}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 \bibitem{FA-saladin}
+                         ) [55] [56
+
+] (./internundervisning.lof)
+(./internundervisning.lot) [57]
 \tf@toc=\write5
 \openout5 = `internundervisning.toc'.
 
 \tf@lof=\write6
 \openout6 = `internundervisning.lof'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
+\tf@lot=\write7
+\openout7 = `internundervisning.lot'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
  (./internundervisning.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 125.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package rerunfilecheck Info: File `internundervisning.out' has not changed.
+(rerunfilecheck)             Checksum: 179EFA55A6F6614E11CDF2FB28AA1CA6;7272.
 
-
-Package rerunfilecheck Warning: File `internundervisning.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `internundervisning.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  5030AC2105D9746F281B0B274BAE2843;3242.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1350,16 +1472,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
  ) 
 Here is how much of TeX's memory you used:
- 9693 strings out of 493315
- 137080 string characters out of 6137904
- 252681 words of memory out of 5000000
- 12835 multiletter control sequences out of 15000+600000
- 12538 words of font info for 43 fonts, out of 8000000 for 9000
+ 9905 strings out of 493315
+ 140018 string characters out of 6137904
+ 255411 words of memory out of 5000000
+ 12963 multiletter control sequences out of 15000+600000
+ 13758 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  43i,13n,35p,636b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -1371,10 +1493,10 @@ sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on internundervisning.pdf (43 pages, 2225127 bytes).
+Output written on internundervisning.pdf (65 pages, 2253088 bytes).
 PDF statistics:
- 443 PDF objects out of 1000 (max. 8388607)
- 374 compressed objects within 4 object streams
- 204 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1089 PDF objects out of 1200 (max. 8388607)
+ 992 compressed objects within 10 object streams
+ 267 named destinations out of 1000 (max. 500000)
+ 972 words of extra memory for PDF output out of 10000 (max. 10000000)
 

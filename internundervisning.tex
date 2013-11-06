@@ -37,6 +37,8 @@
 %slutter her
 
 \setsecnumdepth{subsection}%numerer ned til dette nivået
+\settocdepth{subsection}
+
 
 \begin{document}
 \sffamily
@@ -59,7 +61,7 @@
 	%\begin{framed}
 	%\end{framed} brukes for å ramme inn. Innhold er mellom.
 \mainmatter
-	\part{Sykdommer}	
+	\part{Sykdommer i praksis}	
 		\input{./kap_syk/systematisk.tex} %Systematisk arbeid kapittelet
 		\input{./kap_syk/hjerte.tex} %hjertekapittelet
 		\input{./kap_syk/nevro.tex} %nevrologikapittelet	
@@ -70,14 +72,54 @@
 		  \bibliography{./kilder_bibtex/bib_iu_spl}{}
 		  \bibliographystyle{plain}
 
-	\part{prosedyrer}
-	\part{sjekklister}	
+	\part{Prosedyrer og sikkerhet}
+		\input{./kap_pro/sikkerhet.tex}%sikkerhetskapittlet
+		\chapter{Ultralyd}
+			\section{Blærescan}
+			\section{Dyp veneflon}
+			\section{Måle størrelse på foster}
+		\chapter{Blodige saker}
+			\section{Veneflon}
+			\section{Bedøvelse av sår}
+		\chapter{Urinveier}
+			\section{Sette inn varig kateter}
+			\section{Engangskateter}
+			\section{Spedbarn og urinposer}
+		\chapter{Hjerte og lungeredning}
+			\section{Intraosseøs tilgang}
+			\section{Defibrillator}
+			\section{Oksygen og medisiner}
+			\section{Formel-1 ved Drammen legevakt}
+		\chapter{Arbeidsdagen}
+			\section{Når du kommer på jobb}
+			\section{Når du går fra jobb}
+		
+		\bibliography{./kilder_bibtex/bib_iu_spl}{}
+		\bibliographystyle{plain}
+
+
+	\part{Sjekklister}
+		\section{Blærescan}
+		\section{Dyp veneflon}
+		\section{Måle størrelse på foster}
+		\section{Veneflon}
+		\section{Bedøvelse av sår}
+		\section{Hjerte- lungeredning}
+		\section{Når du kommer på jobb}
+		\section{Når du går fra jobb}
+
+
+
+		\bibliography{./kilder_bibtex/bib_iu_spl}{}
+		\bibliographystyle{plain}
+
 \backmatter
 
  
           
 
 	\listoffigures
+	\listoftables
 
 
 \end{document}

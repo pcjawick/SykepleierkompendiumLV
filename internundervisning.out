@@ -1,6 +1,6 @@
 \BOOKMARK [0][-]{chapter*.1}{Forord}{}% 1
 \BOOKMARK [0][-]{section*.2}{Innhold}{}% 2
-\BOOKMARK [-1][-]{part.1}{Sykdommer}{}% 3
+\BOOKMARK [-1][-]{part.1}{Sykdommer i praksis}{}% 3
 \BOOKMARK [0][-]{chapter.1}{Hvordan jobbe systematisk}{part.1}% 4
 \BOOKMARK [1][-]{section.1.1}{Hva m\345 du huske fra dette foredraget}{chapter.1}% 5
 \BOOKMARK [1][-]{section.1.2}{\305 lage verkt\370y for \345 ikke v\346re redd}{chapter.1}% 6
@@ -13,43 +13,105 @@
 \BOOKMARK [1][-]{section.2.4}{Fysiologi}{chapter.2}% 13
 \BOOKMARK [1][-]{section.2.5}{Patologi}{chapter.2}% 14
 \BOOKMARK [1][-]{section.2.6}{Klinikk}{chapter.2}% 15
-\BOOKMARK [1][-]{section.2.7}{Pasienteksempler}{chapter.2}% 16
-\BOOKMARK [0][-]{chapter.3}{Nevrologiske sykdommer}{part.1}% 17
-\BOOKMARK [1][-]{section.3.1}{Hva du skal ta med deg videre:}{chapter.3}% 18
-\BOOKMARK [1][-]{section.3.2}{Kort om denne delen...}{chapter.3}% 19
-\BOOKMARK [1][-]{section.3.3}{Anatomi}{chapter.3}% 20
-\BOOKMARK [1][-]{section.3.4}{Fysiologi}{chapter.3}% 21
-\BOOKMARK [1][-]{section.3.5}{Patologi}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.6}{Klinikk}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.7}{Pasienteksempler}{chapter.3}% 24
-\BOOKMARK [0][-]{chapter.4}{Lungesykdommer}{part.1}% 25
-\BOOKMARK [1][-]{section.4.1}{Dette har du l\346rt}{chapter.4}% 26
-\BOOKMARK [1][-]{section.4.2}{Anatomi}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.3}{Fysiologi}{chapter.4}% 28
-\BOOKMARK [1][-]{section.4.4}{Patologi}{chapter.4}% 29
-\BOOKMARK [1][-]{section.4.5}{Klinikk}{chapter.4}% 30
-\BOOKMARK [1][-]{section.4.6}{Pasienteksempler}{chapter.4}% 31
-\BOOKMARK [0][-]{chapter.5}{Urinveier}{part.1}% 32
-\BOOKMARK [1][-]{section.5.1}{Gullkornene:}{chapter.5}% 33
-\BOOKMARK [1][-]{section.5.2}{Anatomi}{chapter.5}% 34
-\BOOKMARK [1][-]{section.5.3}{Fysiologi}{chapter.5}% 35
-\BOOKMARK [1][-]{section.5.4}{Patologi}{chapter.5}% 36
-\BOOKMARK [1][-]{section.5.5}{Klinikk}{chapter.5}% 37
-\BOOKMARK [1][-]{section.5.6}{Pasienteksempler}{chapter.5}% 38
-\BOOKMARK [0][-]{chapter.6}{Delir}{part.1}% 39
-\BOOKMARK [1][-]{section.6.1}{Viktigeste momenter fra foredraget}{chapter.6}% 40
-\BOOKMARK [1][-]{section.6.2}{Anatomi}{chapter.6}% 41
-\BOOKMARK [1][-]{section.6.3}{Fysiologi}{chapter.6}% 42
-\BOOKMARK [1][-]{section.6.4}{Patologi}{chapter.6}% 43
-\BOOKMARK [1][-]{section.6.5}{Klinikk}{chapter.6}% 44
-\BOOKMARK [1][-]{section.6.6}{Pasienteksempler}{chapter.6}% 45
-\BOOKMARK [0][-]{chapter.7}{Diabetes i alderdommen}{part.1}% 46
-\BOOKMARK [1][-]{section.7.1}{Punkter \345 ha med seg:}{chapter.7}% 47
-\BOOKMARK [1][-]{section.7.2}{Anatomi og fysiologi}{chapter.7}% 48
-\BOOKMARK [1][-]{section.7.3}{Patologi}{chapter.7}% 49
-\BOOKMARK [1][-]{section.7.4}{Klinikk}{chapter.7}% 50
-\BOOKMARK [1][-]{section.7.5}{Pasienteksempler}{chapter.7}% 51
-\BOOKMARK [0][-]{section*.68}{Kilder:}{part.1}% 52
-\BOOKMARK [-1][-]{part.2}{prosedyrer}{}% 53
-\BOOKMARK [-1][-]{part.3}{sjekklister}{}% 54
-\BOOKMARK [0][-]{section*.71}{Illustrasjoner}{part.3}% 55
+\BOOKMARK [2][-]{subsection.2.6.1}{Hjerteinfarkt}{section.2.6}% 16
+\BOOKMARK [2][-]{subsection.2.6.2}{Hjertesvikt}{section.2.6}% 17
+\BOOKMARK [2][-]{subsection.2.6.3}{Atrieflimmer}{section.2.6}% 18
+\BOOKMARK [2][-]{subsection.2.6.4}{Digitalis}{section.2.6}% 19
+\BOOKMARK [1][-]{section.2.7}{Pasienteksempler}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.7.1}{Pasient 1}{section.2.7}% 21
+\BOOKMARK [2][-]{subsection.2.7.2}{Pasient 2}{section.2.7}% 22
+\BOOKMARK [0][-]{chapter.3}{Nevrologiske sykdommer}{part.1}% 23
+\BOOKMARK [1][-]{section.3.1}{Hva du skal ta med deg videre:}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.2}{Kort om denne delen...}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.3}{Anatomi}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.4}{Fysiologi}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.5}{Patologi}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.6}{Klinikk}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.6.1}{Slag og drypp}{section.3.6}% 30
+\BOOKMARK [2][-]{subsection.3.6.2}{Demens}{section.3.6}% 31
+\BOOKMARK [1][-]{section.3.7}{Pasienteksempler}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.7.1}{Pasient 3}{section.3.7}% 33
+\BOOKMARK [2][-]{subsection.3.7.2}{Pasient 4}{section.3.7}% 34
+\BOOKMARK [0][-]{chapter.4}{Lungesykdommer}{part.1}% 35
+\BOOKMARK [1][-]{section.4.1}{Dette har du l\346rt}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.2}{Anatomi}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.3}{Fysiologi}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.4}{Patologi}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.5}{Klinikk}{chapter.4}% 40
+\BOOKMARK [2][-]{subsection.4.5.1}{KOLS}{section.4.5}% 41
+\BOOKMARK [2][-]{subsection.4.5.2}{Pneumoni}{section.4.5}% 42
+\BOOKMARK [2][-]{subsection.4.5.3}{Lungeemboli}{section.4.5}% 43
+\BOOKMARK [1][-]{section.4.6}{Pasienteksempler}{chapter.4}% 44
+\BOOKMARK [2][-]{subsection.4.6.1}{Pasient 5}{section.4.6}% 45
+\BOOKMARK [2][-]{subsection.4.6.2}{Pasient 6}{section.4.6}% 46
+\BOOKMARK [0][-]{chapter.5}{Urinveier}{part.1}% 47
+\BOOKMARK [1][-]{section.5.1}{Gullkornene:}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.2}{Anatomi}{chapter.5}% 49
+\BOOKMARK [1][-]{section.5.3}{Fysiologi}{chapter.5}% 50
+\BOOKMARK [1][-]{section.5.4}{Patologi}{chapter.5}% 51
+\BOOKMARK [1][-]{section.5.5}{Klinikk}{chapter.5}% 52
+\BOOKMARK [2][-]{subsection.5.5.1}{UVI}{section.5.5}% 53
+\BOOKMARK [1][-]{section.5.6}{Pasienteksempler}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.6.1}{Pasient 7}{section.5.6}% 55
+\BOOKMARK [2][-]{subsection.5.6.2}{Pasient 8}{section.5.6}% 56
+\BOOKMARK [0][-]{chapter.6}{Delir}{part.1}% 57
+\BOOKMARK [1][-]{section.6.1}{Viktigeste momenter fra foredraget}{chapter.6}% 58
+\BOOKMARK [1][-]{section.6.2}{Anatomi}{chapter.6}% 59
+\BOOKMARK [1][-]{section.6.3}{Fysiologi}{chapter.6}% 60
+\BOOKMARK [1][-]{section.6.4}{Patologi}{chapter.6}% 61
+\BOOKMARK [1][-]{section.6.5}{Klinikk}{chapter.6}% 62
+\BOOKMARK [1][-]{section.6.6}{Pasienteksempler}{chapter.6}% 63
+\BOOKMARK [2][-]{subsection.6.6.1}{Pasient 9}{section.6.6}% 64
+\BOOKMARK [2][-]{subsection.6.6.2}{Pasient 10}{section.6.6}% 65
+\BOOKMARK [0][-]{chapter.7}{Diabetes i alderdommen}{part.1}% 66
+\BOOKMARK [1][-]{section.7.1}{Punkter \345 ha med seg:}{chapter.7}% 67
+\BOOKMARK [1][-]{section.7.2}{Anatomi og fysiologi}{chapter.7}% 68
+\BOOKMARK [1][-]{section.7.3}{Patologi}{chapter.7}% 69
+\BOOKMARK [1][-]{section.7.4}{Klinikk}{chapter.7}% 70
+\BOOKMARK [2][-]{subsection.7.4.1}{Medikamenterlegevakthandboka}{section.7.4}% 71
+\BOOKMARK [1][-]{section.7.5}{Pasienteksempler}{chapter.7}% 72
+\BOOKMARK [2][-]{subsection.7.5.1}{Pasient 11}{section.7.5}% 73
+\BOOKMARK [2][-]{subsection.7.5.2}{Pasient 12}{section.7.5}% 74
+\BOOKMARK [0][-]{section*.68}{Kilder:}{part.1}% 75
+\BOOKMARK [-1][-]{part.2}{Prosedyrer og sikkerhet}{}% 76
+\BOOKMARK [0][-]{chapter.8}{Sikkerhet}{part.2}% 77
+\BOOKMARK [1][-]{section.8.1}{Trusler}{chapter.8}% 78
+\BOOKMARK [2][-]{subsection.8.1.1}{P\345 telefonen}{section.8.1}% 79
+\BOOKMARK [2][-]{subsection.8.1.2}{P\345 venterommet}{section.8.1}% 80
+\BOOKMARK [2][-]{subsection.8.1.3}{Innenfor}{section.8.1}% 81
+\BOOKMARK [1][-]{section.8.2}{Vold}{chapter.8}% 82
+\BOOKMARK [2][-]{subsection.8.2.1}{Mot pasienter}{section.8.2}% 83
+\BOOKMARK [2][-]{subsection.8.2.2}{Mot oss}{section.8.2}% 84
+\BOOKMARK [1][-]{section.8.3}{Oversikt over r\370mningsveier}{chapter.8}% 85
+\BOOKMARK [0][-]{chapter.9}{Ultralyd}{part.2}% 86
+\BOOKMARK [1][-]{section.9.1}{Bl\346rescan}{chapter.9}% 87
+\BOOKMARK [1][-]{section.9.2}{Dyp veneflon}{chapter.9}% 88
+\BOOKMARK [1][-]{section.9.3}{M\345le st\370rrelse p\345 foster}{chapter.9}% 89
+\BOOKMARK [0][-]{chapter.10}{Blodige saker}{part.2}% 90
+\BOOKMARK [1][-]{section.10.1}{Veneflon}{chapter.10}% 91
+\BOOKMARK [1][-]{section.10.2}{Bed\370velse av s\345r}{chapter.10}% 92
+\BOOKMARK [0][-]{chapter.11}{Urinveier}{part.2}% 93
+\BOOKMARK [1][-]{section.11.1}{Sette inn varig kateter}{chapter.11}% 94
+\BOOKMARK [1][-]{section.11.2}{Engangskateter}{chapter.11}% 95
+\BOOKMARK [1][-]{section.11.3}{Spedbarn og urinposer}{chapter.11}% 96
+\BOOKMARK [0][-]{chapter.12}{Hjerte og lungeredning}{part.2}% 97
+\BOOKMARK [1][-]{section.12.1}{Intraosse\370s tilgang}{chapter.12}% 98
+\BOOKMARK [1][-]{section.12.2}{Defibrillator}{chapter.12}% 99
+\BOOKMARK [1][-]{section.12.3}{Oksygen og medisiner}{chapter.12}% 100
+\BOOKMARK [1][-]{section.12.4}{Formel-1 ved Drammen legevakt}{chapter.12}% 101
+\BOOKMARK [0][-]{chapter.13}{Arbeidsdagen}{part.2}% 102
+\BOOKMARK [1][-]{section.13.1}{N\345r du kommer p\345 jobb}{chapter.13}% 103
+\BOOKMARK [1][-]{section.13.2}{N\345r du g\345r fra jobb}{chapter.13}% 104
+\BOOKMARK [0][-]{section*.71}{Kilder:}{part.2}% 105
+\BOOKMARK [-1][-]{part.3}{Sjekklister}{}% 106
+\BOOKMARK [0][-]{section.13.3}{Bl\346rescan}{part.3}% 107
+\BOOKMARK [1][-]{section.13.4}{Dyp veneflon}{section.13.3}% 108
+\BOOKMARK [1][-]{section.13.5}{M\345le st\370rrelse p\345 foster}{section.13.3}% 109
+\BOOKMARK [1][-]{section.13.6}{Veneflon}{section.13.3}% 110
+\BOOKMARK [1][-]{section.13.7}{Bed\370velse av s\345r}{section.13.3}% 111
+\BOOKMARK [1][-]{section.13.8}{Hjerte- lungeredning}{section.13.3}% 112
+\BOOKMARK [1][-]{section.13.9}{N\345r du kommer p\345 jobb}{section.13.3}% 113
+\BOOKMARK [1][-]{section.13.10}{N\345r du g\345r fra jobb}{section.13.3}% 114
+\BOOKMARK [0][-]{section*.74}{Kilder:}{part.3}% 115
+\BOOKMARK [0][-]{section*.75}{Illustrasjoner}{part.3}% 116
+\BOOKMARK [0][-]{section*.76}{Tabeller}{part.3}% 117
