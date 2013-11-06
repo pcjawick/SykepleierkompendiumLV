@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  5 NOV 2013 17:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  5 NOV 2013 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**syllabus.tex
-(./syllabus.tex
+**internundervisning.tex
+(./internundervisning.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/memoir/memoir.cls
@@ -737,8 +737,8 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(./syllabus.aux)
-\openout1 = `syllabus.aux'.
+(./internundervisning.aux)
+\openout1 = `internundervisning.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
 LaTeX Font Info:    ... okay on input line 41.
@@ -771,9 +771,9 @@ LaTeX Info: Redefining \nameref on input line 41.
 LaTeX Info: Redefining \ref on input line 41.
 LaTeX Info: Redefining \pageref on input line 41.
 LaTeX Info: Redefining \nameref on input line 41.
-(./syllabus.out) (./syllabus.out)
+(./internundervisning.out) (./internundervisning.out)
 \@outlinefile=\write4
-\openout4 = `syllabus.out'.
+\openout4 = `internundervisning.out'.
 
 
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -804,18 +804,24 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-(./forside.tex) (./forord.tex [1
+(./forside.tex <./forsidelvdr.jpg, id=213, 209.28188pt x 136.51pt>
+File: ./forsidelvdr.jpg Graphic file (type jpg)
 
+<use ./forsidelvdr.jpg>
+Package pdftex.def Info: ./forsidelvdr.jpg used on input line 27.
+(pdftex.def)             Requested size: 433.62pt x 282.84053pt.
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-]
-Overfull \hbox (0.27556pt too wide) in paragraph at lines 2--4
-\OT1/cmss/m/n/12 Denne bo-ken er et ved-legg til fagda-gen i ar-rangert av fa-g
-akademiet. M^^Walgruppen
+Overfull \hbox (50.62pt too wide) in paragraph at lines 27--30
+ [][] 
  []
 
+) (./forord.tex [1
 
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./forsi
+delvdr.jpg>] [2
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -829,7 +835,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 9.
 
-[3]) (./syllabus.toc
+[3]) (./internundervisning.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -930,7 +936,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
 [3
 
-] <./kap/bilder/hjertebedre.jpg, id=320, 1027.84pt x 605.26125pt>
+] <./kap/bilder/hjertebedre.jpg, id=321, 1027.84pt x 605.26125pt>
 File: ./kap/bilder/hjertebedre.jpg Graphic file (type jpg)
 
 <use ./kap/bilder/hjertebedre.jpg>
@@ -1001,7 +1007,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<./kap/bilder/nevro1.jpg, id=373, 180.675pt x 240.9pt>
+<./kap/bilder/nevro1.jpg, id=374, 180.675pt x 240.9pt>
 File: ./kap/bilder/nevro1.jpg Graphic file (type jpg)
 
 <use ./kap/bilder/nevro1.jpg>
@@ -1062,7 +1068,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-[13] <./kap/bilder/lungeskjema.png, id=415, 351.2322pt x 448.5558pt>
+[13] <./kap/bilder/lungeskjema.png, id=416, 351.2322pt x 448.5558pt>
 File: ./kap/bilder/lungeskjema.png Graphic file (type png)
 
 <use ./kap/bilder/lungeskjema.png>
@@ -1077,14 +1083,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 32.
 
-<./kap/bilder/emfysemct.png, id=425, 472.164pt x 357.9774pt>
+<./kap/bilder/emfysemct.png, id=426, 472.164pt x 357.9774pt>
 File: ./kap/bilder/emfysemct.png Graphic file (type png)
 
 <use ./kap/bilder/emfysemct.png>
 Package pdftex.def Info: ./kap/bilder/emfysemct.png used on input line 40.
 (pdftex.def)             Requested size: 361.34999pt x 273.96106pt.
 
-<./kap/bilder/goldnorsk.png, id=426, 650.9118pt x 318.4698pt>
+<./kap/bilder/goldnorsk.png, id=427, 650.9118pt x 318.4698pt>
 File: ./kap/bilder/goldnorsk.png Graphic file (type png)
 
 <use ./kap/bilder/goldnorsk.png>
@@ -1118,7 +1124,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-<./kap/bilder/urinveier.png, id=461, 1003.75pt x 1318.9275pt>
+<./kap/bilder/urinveier.png, id=462, 1003.75pt x 1318.9275pt>
 File: ./kap/bilder/urinveier.png Graphic file (type png)
 
 <use ./kap/bilder/urinveier.png>
@@ -1269,24 +1275,24 @@ Overfull \hbox (28.50505pt too wide) in paragraph at lines 44--45
 ], Glimepirid[], Mindiab[]og
  []
 
-) [29] [30] (./syllabus.bbl
+) [29] [30] (./internundervisning.bbl
 bibitemlist
-) (./syllabus.lof [31
+) (./internundervisning.lof [31
 
 
 ]) [32]
 \tf@toc=\write5
-\openout5 = `syllabus.toc'.
+\openout5 = `internundervisning.toc'.
 
 \tf@lof=\write6
-\openout6 = `syllabus.lof'.
+\openout6 = `internundervisning.lof'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
- (./syllabus.aux)
+ (./internundervisning.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
-Package rerunfilecheck Info: File `syllabus.out' has not changed.
+Package rerunfilecheck Info: File `internundervisning.out' has not changed.
 (rerunfilecheck)             Checksum: C0D605BF0B9D5EC91CF2E6AEDB722F58;3056.
 
 
@@ -1298,13 +1304,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 9740 strings out of 493315
- 137245 string characters out of 6137904
- 254234 words of memory out of 5000000
- 12885 multiletter control sequences out of 15000+600000
+ 9745 strings out of 493315
+ 137577 string characters out of 6137904
+ 254274 words of memory out of 5000000
+ 12889 multiletter control sequences out of 15000+600000
  12538 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 43i,13n,35p,621b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,13n,35p,631b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
@@ -1314,10 +1320,10 @@ sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on syllabus.pdf (38 pages, 2193579 bytes).
+Output written on internundervisning.pdf (38 pages, 2229474 bytes).
 PDF statistics:
- 647 PDF objects out of 1000 (max. 8388607)
+ 648 PDF objects out of 1000 (max. 8388607)
  582 compressed objects within 6 object streams
  193 named destinations out of 1000 (max. 500000)
- 447 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 452 words of extra memory for PDF output out of 10000 (max. 10000000)
 
