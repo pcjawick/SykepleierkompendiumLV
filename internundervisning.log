@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  6 NOV 2013 11:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  6 NOV 2013 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1300,13 +1300,13 @@ Overfull \hbox (28.50505pt too wide) in paragraph at lines 44--45
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 114.
 
-(./internundervisning.bbl [49] [50
+[49] [50
 
-]
+] (./internundervisning.bbl
 bibitemlist
-) [51] [52
+) (./internundervisning.lof [51
 
-] (./internundervisning.lof) (./internundervisning.lot) [53]
+]) (./internundervisning.lot) [52]
 \tf@toc=\write5
 \openout5 = `internundervisning.toc'.
 
@@ -1316,12 +1316,12 @@ bibitemlist
 \tf@lot=\write7
 \openout7 = `internundervisning.lot'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
 
 (./internundervisning.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `internundervisning.out' has not changed.
 (rerunfilecheck)             Checksum: 0C208353329C16F081510355F482A971;7152.
 
@@ -1331,11 +1331,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 9890 strings out of 493315
- 139813 string characters out of 6137904
+ 9889 strings out of 493315
+ 139806 string characters out of 6137904
  255372 words of memory out of 5000000
  12960 multiletter control sequences out of 15000+600000
  13758 words of font info for 47 fonts, out of 8000000 for 9000
@@ -1350,10 +1350,10 @@ sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on internundervisning.pdf (61 pages, 2248521 bytes).
+Output written on internundervisning.pdf (60 pages, 2248355 bytes).
 PDF statistics:
- 1064 PDF objects out of 1200 (max. 8388607)
- 971 compressed objects within 10 object streams
- 259 named destinations out of 1000 (max. 500000)
+ 1058 PDF objects out of 1200 (max. 8388607)
+ 966 compressed objects within 10 object streams
+ 258 named destinations out of 1000 (max. 500000)
  956 words of extra memory for PDF output out of 10000 (max. 10000000)
 

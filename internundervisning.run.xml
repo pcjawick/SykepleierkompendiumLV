@@ -79,9 +79,9 @@
       <file>internundervisning.bcf</file>
     </requires>
     <requires type="editable">
-      <file>./kilder_bibtex/bib_iu_sjek.bib</file>
-      <file>./kilder_bibtex/bib_iu_sykd.bib</file>
-      <file>./kilder_bibtex/bib_iu_pro.bib</file>
+      <file>./kilder_bibtex/bib_iu_spl_sjek.bib</file>
+      <file>./kilder_bibtex/bib_iu_spl_sykd.bib</file>
+      <file>./kilder_bibtex/bib_iu_spl_pro.bib</file>
     </requires>
   </external>
 </requests>

@@ -9,7 +9,7 @@
 \usepackage{graphicx}
 \usepackage{cite}
 \usepackage[table]{xcolor}
-%\usepackage{biblatex}Tied to make chapref didnt work
+%\usepackage{biblatex}%Tied to make chapref didnt work
 
 
 %slutt på pakkene
@@ -19,9 +19,9 @@
 \chapterstyle{veelo}
 
 %bibtex resources
-%\addbibresource{./kilder_bibtex/bib_iu_sjek.bib}
-%\addbibresource{./kilder_bibtex/bib_iu_sykd.bib}
-%\addbibresource{./kilder_bibtex/bib_iu_pro.bib}chapref
+% \addbibresource{./kilder_bibtex/bib_iu_spl_sjek.bib}
+% \addbibresource{./kilder_bibtex/bib_iu_spl_sykd.bib}
+% \addbibresource{./kilder_bibtex/bib_iu_spl_pro.bib}%chapref
 
 %Seksjoner, subseksjoner og paragrafutseende begynner her:
 \setsecheadstyle{\bfseries\sffamily}   
@@ -76,8 +76,8 @@
 		\input{./kap_syk/urinveier.tex}%Nyrekapittelet
 		\input{./kap_syk/delir.tex}%delirkapittelet
 		\input{./kap_syk/diabetes.tex}%delirkapittelet
-		  %\printbibliography{heading=subbibliography}
-		 % \bibliographystyle{plain}
+		%\printbibliography{./kilder_bibtex/bib_iu_spl_sykd}
+		%\bibliographystyle{plain}
 		%\end{refsection}
 
 	\part{Prosedyrer og sikkerhet}
@@ -122,13 +122,15 @@
 
 
 
-	\bibliography{./kilder_bibtex/bib_iu_spl_sykd.bib}{}
-	\bibliographystyle{plain}
+	%\bibliography{./kilder_bibtex/bib_iu_spl_sykd.bib}{}
+	%\bibliographystyle{plain}
 
 \backmatter
 
  
-          
+     
+	\bibliography{./kilder_bibtex/bib_iu_spl_sykd.bib}{}
+	\bibliographystyle{plain}     
 	
 	
 	\listoffigures
